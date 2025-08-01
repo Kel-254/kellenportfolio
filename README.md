@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This responsive, modern web applicatio
 
 ## 🌐 Live Website
 
-🔗 [View Portfolio](https://your-username.github.io/your-repo-name/)  
+🔗 [View Portfolio](https://kel-254.github.io/kellenportfolio//)  
 
 ## 📁 Project Structure
 
